@@ -1,0 +1,27 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "usando ejs con express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancotera/ejs.git"
+  },
+  "author": "@juancotera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancotera/ejs/issues"
+  },
+  "homepage": "https://github.com/juancotera/ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
